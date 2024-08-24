@@ -1,0 +1,8474 @@
+[
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 291,
+            "Y": 277,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 366793300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 291,
+            "Y": 278,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8549400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 292,
+            "Y": 278,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8083200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 293,
+            "Y": 279,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7527100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 297,
+            "Y": 283,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8050200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 299,
+            "Y": 285,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7652000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 303,
+            "Y": 289,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8065900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 308,
+            "Y": 294,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8591300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 314,
+            "Y": 300,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7634300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 321,
+            "Y": 306,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8526800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 327,
+            "Y": 312,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7090600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 343,
+            "Y": 325,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8560100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 354,
+            "Y": 333,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7948800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 374,
+            "Y": 347,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8301900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 396,
+            "Y": 363,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7772000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 421,
+            "Y": 385,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7937100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 454,
+            "Y": 409,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8047100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 500,
+            "Y": 443,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7995500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 544,
+            "Y": 477,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7959900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 601,
+            "Y": 517,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8276900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 661,
+            "Y": 557,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8021300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 722,
+            "Y": 591,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7948300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 781,
+            "Y": 625,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7189700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 844,
+            "Y": 654,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8474200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 894,
+            "Y": 674,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8227200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 938,
+            "Y": 692,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7562100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 983,
+            "Y": 701,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8583800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1012,
+            "Y": 704,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8001200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1040,
+            "Y": 707,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7582500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1057,
+            "Y": 709,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8407800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1077,
+            "Y": 709,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7867900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1096,
+            "Y": 709,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7530000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1112,
+            "Y": 709,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8615800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1127,
+            "Y": 709,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7984100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1139,
+            "Y": 709,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7992700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1148,
+            "Y": 709,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7831800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1156,
+            "Y": 706,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8234900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1162,
+            "Y": 703,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7929600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1166,
+            "Y": 701,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7661100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1168,
+            "Y": 698,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8469800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1169,
+            "Y": 696,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7993600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1170,
+            "Y": 694,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7108700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1170,
+            "Y": 692,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8047200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1172,
+            "Y": 690,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8900300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1172,
+            "Y": 688,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7865500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1172,
+            "Y": 687,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8167400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1172,
+            "Y": 685,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7582300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1172,
+            "Y": 681,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8049600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1172,
+            "Y": 677,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7847800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1172,
+            "Y": 672,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8097700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1170,
+            "Y": 668,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7522200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1167,
+            "Y": 662,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8508600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1164,
+            "Y": 657,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8308400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1163,
+            "Y": 654,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7859800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1162,
+            "Y": 653,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7798500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1161,
+            "Y": 651,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7733100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1161,
+            "Y": 650,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8261600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1161,
+            "Y": 650,
+            "DWFlags": 32770,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 72121900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1161,
+            "Y": 650,
+            "DWFlags": 32772,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 119994000
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 68,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 1735873700
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 68,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 112021400
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 68,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 88710900
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 68,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 63809700
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 68,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 95172100
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 68,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 32349000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1159,
+            "Y": 649,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 24079100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1155,
+            "Y": 649,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7957300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1150,
+            "Y": 649,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8031500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1143,
+            "Y": 652,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7512700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1135,
+            "Y": 655,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8807600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1128,
+            "Y": 658,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7772600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1121,
+            "Y": 661,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8158600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1114,
+            "Y": 663,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7525000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1107,
+            "Y": 668,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8532600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1100,
+            "Y": 671,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7825100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1095,
+            "Y": 674,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7948500
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 68,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 0
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1088,
+            "Y": 678,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8000200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1081,
+            "Y": 682,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7205100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1073,
+            "Y": 686,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8867400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1066,
+            "Y": 689,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8063200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1060,
+            "Y": 692,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7577100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1053,
+            "Y": 696,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8293200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1050,
+            "Y": 698,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7932000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1044,
+            "Y": 701,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8125900
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 68,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 0
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1037,
+            "Y": 704,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7718900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1032,
+            "Y": 707,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8207600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1026,
+            "Y": 711,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8170800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1024,
+            "Y": 712,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7973300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1019,
+            "Y": 714,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7959600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1017,
+            "Y": 715,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7962600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1014,
+            "Y": 716,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8093900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1014,
+            "Y": 716,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7764400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1012,
+            "Y": 717,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8140000
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 68,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 7706900
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 68,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 112147100
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 751953000
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 56957300
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 103225200
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 79536200
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 88189200
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 80032000
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 136364600
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 63166500
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 96849300
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 79902100
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 88132700
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 112384600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1015,
+            "Y": 717,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 263206300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1031,
+            "Y": 717,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7902400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1056,
+            "Y": 717,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7470200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1083,
+            "Y": 717,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8854400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1116,
+            "Y": 717,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8642900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1138,
+            "Y": 717,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7286300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1154,
+            "Y": 717,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7762400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1165,
+            "Y": 717,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8443600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1174,
+            "Y": 719,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7535000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1180,
+            "Y": 721,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7694500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1185,
+            "Y": 722,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8537900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1186,
+            "Y": 724,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7911800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1188,
+            "Y": 725,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8177400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1189,
+            "Y": 727,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8079100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1183,
+            "Y": 732,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 39262800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1172,
+            "Y": 740,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8384200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1155,
+            "Y": 755,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8010700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1136,
+            "Y": 773,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8154400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1115,
+            "Y": 797,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7400900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1091,
+            "Y": 822,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8666700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1065,
+            "Y": 853,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7966900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1046,
+            "Y": 876,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8106100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1024,
+            "Y": 902,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7982700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1003,
+            "Y": 927,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7953400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 991,
+            "Y": 948,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8063100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 981,
+            "Y": 969,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7724800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 976,
+            "Y": 983,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8257100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 973,
+            "Y": 995,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8130700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 970,
+            "Y": 1006,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7716100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 970,
+            "Y": 1009,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8209200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 969,
+            "Y": 1012,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7976300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 968,
+            "Y": 1012,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8129200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 967,
+            "Y": 1012,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15769500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 966,
+            "Y": 1008,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8191800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 966,
+            "Y": 996,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7794800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 966,
+            "Y": 982,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7633400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 962,
+            "Y": 963,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8096100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 959,
+            "Y": 937,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8376800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 951,
+            "Y": 907,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7617800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 938,
+            "Y": 869,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7440100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 920,
+            "Y": 829,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8723500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 890,
+            "Y": 784,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8135600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 858,
+            "Y": 742,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8040100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 825,
+            "Y": 701,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7982900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 791,
+            "Y": 667,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7588400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 765,
+            "Y": 647,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8470700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 750,
+            "Y": 633,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8074800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 740,
+            "Y": 626,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7837800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 734,
+            "Y": 622,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8157600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 730,
+            "Y": 619,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8490100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 727,
+            "Y": 619,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7374300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 726,
+            "Y": 618,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8552900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 723,
+            "Y": 617,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7506900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 722,
+            "Y": 617,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8106600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 722,
+            "Y": 616,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7868600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 721,
+            "Y": 616,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 39748700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 721,
+            "Y": 616,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8311900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 720,
+            "Y": 615,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15973200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 719,
+            "Y": 614,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7672700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 718,
+            "Y": 614,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15838200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 717,
+            "Y": 614,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8056400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 717,
+            "Y": 613,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8457600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 715,
+            "Y": 613,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15667600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 715,
+            "Y": 612,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8029000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 714,
+            "Y": 609,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8265700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 714,
+            "Y": 605,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8005700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 714,
+            "Y": 601,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7787100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 714,
+            "Y": 596,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7995100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 714,
+            "Y": 593,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8085100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 714,
+            "Y": 584,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8181600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 716,
+            "Y": 573,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7841900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 716,
+            "Y": 564,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7698400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 720,
+            "Y": 554,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8555900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 720,
+            "Y": 546,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8523500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 720,
+            "Y": 541,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 6528600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 720,
+            "Y": 537,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8855600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 721,
+            "Y": 532,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7910900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 722,
+            "Y": 529,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7113100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 726,
+            "Y": 526,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8884400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 728,
+            "Y": 523,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7824500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 733,
+            "Y": 520,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8193000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 738,
+            "Y": 520,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7724200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 744,
+            "Y": 519,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7922300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 752,
+            "Y": 515,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7658800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 763,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8956000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 775,
+            "Y": 511,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7653400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 796,
+            "Y": 508,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7542500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 829,
+            "Y": 508,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8408800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 875,
+            "Y": 507,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8126500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 929,
+            "Y": 507,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7130100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 989,
+            "Y": 503,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8751500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1049,
+            "Y": 501,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7902800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1118,
+            "Y": 490,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 9134500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1198,
+            "Y": 482,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7030900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1264,
+            "Y": 475,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8067100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1334,
+            "Y": 475,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8112700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1410,
+            "Y": 469,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7726500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1478,
+            "Y": 467,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8008100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1532,
+            "Y": 467,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7200100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1589,
+            "Y": 467,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 9041400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1630,
+            "Y": 467,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7616700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1665,
+            "Y": 467,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8295100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1695,
+            "Y": 467,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7643300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1708,
+            "Y": 467,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8291900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1723,
+            "Y": 467,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7973400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1733,
+            "Y": 467,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8081800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1742,
+            "Y": 469,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7681300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1745,
+            "Y": 471,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8393100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1747,
+            "Y": 473,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7331700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1748,
+            "Y": 474,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8818600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1749,
+            "Y": 476,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7457500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1749,
+            "Y": 479,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8242000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1749,
+            "Y": 483,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8186600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1749,
+            "Y": 485,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7945500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1749,
+            "Y": 487,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7971400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1749,
+            "Y": 487,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8096100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1750,
+            "Y": 488,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 32015000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1752,
+            "Y": 488,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7944400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1755,
+            "Y": 488,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7904100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1758,
+            "Y": 488,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8020300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1760,
+            "Y": 488,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8704600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1762,
+            "Y": 488,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7387900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1765,
+            "Y": 488,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7969400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1766,
+            "Y": 488,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7698900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1768,
+            "Y": 488,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8200700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1772,
+            "Y": 487,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7805600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1776,
+            "Y": 486,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8006400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1781,
+            "Y": 486,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8130500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1787,
+            "Y": 486,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7963100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1792,
+            "Y": 486,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7695400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1798,
+            "Y": 485,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8345900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1805,
+            "Y": 485,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7905200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1810,
+            "Y": 483,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8207500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1816,
+            "Y": 482,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8074100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1823,
+            "Y": 482,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7974900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1828,
+            "Y": 482,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7912800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1834,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7812000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1837,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8218700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1838,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7942600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1839,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7946700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1839,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 183904700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1839,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8144500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1837,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8058400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1837,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7968800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1836,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7703200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1835,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7934200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1834,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 32496600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1834,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8599100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1833,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7270100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1831,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8241900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1829,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7435300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1827,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8231500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1826,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8190300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1825,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7463500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1822,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8349700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1821,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7650800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1821,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8412900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1819,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8061500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1817,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7452900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1815,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8561000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1815,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7902700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1814,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 87961100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1813,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15412200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1812,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 16276500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1812,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 16299100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1811,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15325800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1810,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 32383200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1809,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 32530000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1809,
+            "Y": 481,
+            "DWFlags": 32770,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 55955500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1809,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 79495500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1808,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8515600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1808,
+            "Y": 481,
+            "DWFlags": 32772,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 0
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1807,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 63798000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1806,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 159330000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1806,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 16679900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1805,
+            "Y": 482,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 23715000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1803,
+            "Y": 482,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15643600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1803,
+            "Y": 483,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8397400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1801,
+            "Y": 484,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8343200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1800,
+            "Y": 485,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7372800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1799,
+            "Y": 485,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8810900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1795,
+            "Y": 488,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7778800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1794,
+            "Y": 489,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8434400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1790,
+            "Y": 492,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7619600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1787,
+            "Y": 493,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8087700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1783,
+            "Y": 496,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7856200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1780,
+            "Y": 499,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8005000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1775,
+            "Y": 501,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8136300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1773,
+            "Y": 503,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8081900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1768,
+            "Y": 506,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7841700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1766,
+            "Y": 506,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8160700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1762,
+            "Y": 507,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7913100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1760,
+            "Y": 509,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7156300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1756,
+            "Y": 510,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8827800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1753,
+            "Y": 511,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7989600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1750,
+            "Y": 511,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7076000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1747,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8934400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1746,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7797000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1744,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7721200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1743,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8359300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1743,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 16151400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1741,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 55853400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1741,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7130700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1740,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8666500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1740,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7894500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1739,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8436100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1737,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7585200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1737,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8019200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1736,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7961400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1734,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7983100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1734,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 24353000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1732,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 24126400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1732,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7481700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1731,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8395100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1731,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7964000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1729,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8087600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1729,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7948400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1728,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 23957100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1728,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7734800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1726,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8426800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1725,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8013200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1725,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7705800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1723,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 16167700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1723,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 24019500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1722,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 24022400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1720,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15366700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1720,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15930700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1719,
+            "Y": 513,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8605800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1716,
+            "Y": 514,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15821600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1716,
+            "Y": 514,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 95599400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1715,
+            "Y": 514,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 16324900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1715,
+            "Y": 514,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7745300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1713,
+            "Y": 516,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8722600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1712,
+            "Y": 516,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7931900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1711,
+            "Y": 519,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7273400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1710,
+            "Y": 521,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8248200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1709,
+            "Y": 523,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8689500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1708,
+            "Y": 523,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7504200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1707,
+            "Y": 525,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7840800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1706,
+            "Y": 527,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8055300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1705,
+            "Y": 529,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8116100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1705,
+            "Y": 529,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7239500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1705,
+            "Y": 530,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 328998500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1705,
+            "Y": 530,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7616200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1706,
+            "Y": 530,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7993700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1707,
+            "Y": 529,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8211600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1708,
+            "Y": 529,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7806800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1708,
+            "Y": 528,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8019100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1709,
+            "Y": 527,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7609400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1710,
+            "Y": 527,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 16430900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1712,
+            "Y": 526,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15510300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1713,
+            "Y": 526,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 24864800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1714,
+            "Y": 524,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15159400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1715,
+            "Y": 524,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8727700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1715,
+            "Y": 524,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7952400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1716,
+            "Y": 524,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15798700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1717,
+            "Y": 524,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 79698100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1718,
+            "Y": 524,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8617300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1718,
+            "Y": 524,
+            "DWFlags": 32770,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 71529500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1718,
+            "Y": 524,
+            "DWFlags": 32772,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 89141700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1717,
+            "Y": 524,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 231174100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1712,
+            "Y": 524,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8144800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1708,
+            "Y": 524,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7959900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1698,
+            "Y": 525,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7345400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1689,
+            "Y": 527,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8323200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1676,
+            "Y": 530,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8210500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1663,
+            "Y": 535,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8043600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1644,
+            "Y": 539,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7923200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1627,
+            "Y": 544,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7976400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1608,
+            "Y": 549,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8118600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1586,
+            "Y": 557,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7805500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1564,
+            "Y": 563,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8266400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1540,
+            "Y": 570,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7638400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1510,
+            "Y": 579,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8370600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1482,
+            "Y": 587,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8531300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1450,
+            "Y": 595,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7552500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1418,
+            "Y": 604,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7962700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1388,
+            "Y": 612,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7693200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1357,
+            "Y": 614,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8218300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1328,
+            "Y": 620,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7502500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1303,
+            "Y": 622,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8269100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1272,
+            "Y": 625,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8167300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1251,
+            "Y": 629,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7477600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1230,
+            "Y": 632,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8243100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1204,
+            "Y": 636,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8229400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1181,
+            "Y": 639,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7543700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1158,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8309600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1135,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8119700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1116,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8065700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1100,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7760400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1080,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8169700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1067,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7535400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1054,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8491400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1042,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8123400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1034,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7604600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1026,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8040300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1019,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8164400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1014,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7542800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1009,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8368700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1007,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8663700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1005,
+            "Y": 643,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7551900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1005,
+            "Y": 643,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7787500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1004,
+            "Y": 643,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8199300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1002,
+            "Y": 643,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8041500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1001,
+            "Y": 643,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7757300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1001,
+            "Y": 643,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8280700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1000,
+            "Y": 643,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7031800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 999,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8976600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 999,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15736300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 998,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7936000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 997,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15710600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 997,
+            "Y": 642,
+            "DWFlags": 32770,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 88205900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 997,
+            "Y": 642,
+            "DWFlags": 32772,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 96038900
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 97,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 2095987300
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 97,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 56124300
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 97,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 143759900
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 97,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 40346500
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 97,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 120149800
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 97,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 95487200
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 13,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 72208000
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 13,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 112287200
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 75,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 1223998200
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 75,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 80770200
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 75,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 350663400
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 75,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 88467100
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 75,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 87817600
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 75,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 199844600
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 13,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 287808500
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 13,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 72456900
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 76,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 1071811700
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 76,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 127901000
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 83,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 63844700
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 83,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 120652400
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 13,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 96090900
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 13,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 215587200
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 687751800
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 88770800
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 79199700
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 88335300
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 80325400
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 98,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 95611700
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 13,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 96362600
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 13,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 95644500
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 616322300
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 79483000
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 88084800
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 80414000
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 63339900
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 99,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 103941700
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 13,
+            "DwFlags": 0
+        },
+        "MouseNote": null,
+        "TimeGap": 48011500
+    },
+    {
+        "NoteType": 1,
+        "KeyNote": {
+            "VK": 13,
+            "DwFlags": 2
+        },
+        "MouseNote": null,
+        "TimeGap": 89613600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 997,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 158527800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1004,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8722000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1021,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7502300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1040,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7672500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1056,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8442100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1063,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7935100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1066,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8138300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1066,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 439757500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1062,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8134100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1056,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8372000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1050,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7150500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1043,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8429400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1034,
+            "Y": 642,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8050300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1025,
+            "Y": 644,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8205700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1016,
+            "Y": 647,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8152700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 1005,
+            "Y": 652,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7511000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 990,
+            "Y": 658,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7661800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 973,
+            "Y": 665,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8830600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 952,
+            "Y": 675,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7720900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 932,
+            "Y": 684,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7657300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 914,
+            "Y": 692,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8995100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 897,
+            "Y": 700,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7289800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 884,
+            "Y": 706,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8106400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 868,
+            "Y": 712,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8015600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 853,
+            "Y": 718,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8449200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 831,
+            "Y": 725,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 6988100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 812,
+            "Y": 731,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8303400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 791,
+            "Y": 735,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8434400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 772,
+            "Y": 739,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7495300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 758,
+            "Y": 744,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8210800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 744,
+            "Y": 749,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7878800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 731,
+            "Y": 752,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8316900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 720,
+            "Y": 755,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7935300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 709,
+            "Y": 759,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7835800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 697,
+            "Y": 762,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7632600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 684,
+            "Y": 766,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8350000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 673,
+            "Y": 770,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7838200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 661,
+            "Y": 775,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8444300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 647,
+            "Y": 781,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7917100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 637,
+            "Y": 788,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8101900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 626,
+            "Y": 796,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7960400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 612,
+            "Y": 807,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8148000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 600,
+            "Y": 818,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7532600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 587,
+            "Y": 829,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8026900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 575,
+            "Y": 846,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7810500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 566,
+            "Y": 856,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8298700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 555,
+            "Y": 868,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8204500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 548,
+            "Y": 875,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7659500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 540,
+            "Y": 884,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7981200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 532,
+            "Y": 894,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8607100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 527,
+            "Y": 900,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7752300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 522,
+            "Y": 905,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8087300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 517,
+            "Y": 911,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8011400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 513,
+            "Y": 915,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7003500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 512,
+            "Y": 919,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8833200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 510,
+            "Y": 921,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7901200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 508,
+            "Y": 926,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8163500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 505,
+            "Y": 933,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7666300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 503,
+            "Y": 939,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8415700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 498,
+            "Y": 948,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7027300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 495,
+            "Y": 957,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8927000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 492,
+            "Y": 965,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7915100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 489,
+            "Y": 971,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8048900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 486,
+            "Y": 976,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7774400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 483,
+            "Y": 979,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8035900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 481,
+            "Y": 984,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8185800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 479,
+            "Y": 987,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8034300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 477,
+            "Y": 990,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7995900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 472,
+            "Y": 994,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7243000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 468,
+            "Y": 997,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8808200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 462,
+            "Y": 1002,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7973000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 458,
+            "Y": 1006,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7629300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 455,
+            "Y": 1009,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8366800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 453,
+            "Y": 1011,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7896000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 449,
+            "Y": 1013,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8231900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 449,
+            "Y": 1014,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7896300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 447,
+            "Y": 1015,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7424000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 445,
+            "Y": 1016,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8031100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 445,
+            "Y": 1017,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15950800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 443,
+            "Y": 1019,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8325000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 442,
+            "Y": 1020,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7931100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 442,
+            "Y": 1021,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7650600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 441,
+            "Y": 1024,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8565700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 440,
+            "Y": 1025,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7905600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 439,
+            "Y": 1026,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7729900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 438,
+            "Y": 1028,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8551500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 438,
+            "Y": 1028,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7928300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 437,
+            "Y": 1030,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7929500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 436,
+            "Y": 1030,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7681200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 435,
+            "Y": 1030,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8181100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 433,
+            "Y": 1032,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7830400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 431,
+            "Y": 1034,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8419800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 428,
+            "Y": 1037,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7892200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 426,
+            "Y": 1042,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7647800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 422,
+            "Y": 1049,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8979200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 420,
+            "Y": 1055,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7227600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 417,
+            "Y": 1060,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8146000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 415,
+            "Y": 1064,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7596300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 413,
+            "Y": 1067,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8660800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 413,
+            "Y": 1067,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7710300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 411,
+            "Y": 1068,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8158200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 411,
+            "Y": 1068,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7877700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 410,
+            "Y": 1069,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7470500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 410,
+            "Y": 1070,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 79808300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 409,
+            "Y": 1070,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 32983400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 409,
+            "Y": 1070,
+            "DWFlags": 32770,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 71591600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 408,
+            "Y": 1070,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 79570500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 408,
+            "Y": 1070,
+            "DWFlags": 32772,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 3026400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 408,
+            "Y": 1069,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 20846500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 408,
+            "Y": 1067,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8675800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 409,
+            "Y": 1067,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7671800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 409,
+            "Y": 1066,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8353800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 411,
+            "Y": 1065,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8074100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 412,
+            "Y": 1064,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8022100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 413,
+            "Y": 1061,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7079600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 415,
+            "Y": 1059,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8779300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 416,
+            "Y": 1056,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7888800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 418,
+            "Y": 1051,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8164000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 421,
+            "Y": 1048,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8103400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 424,
+            "Y": 1043,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7483500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 428,
+            "Y": 1037,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8083400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 431,
+            "Y": 1031,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7993200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 437,
+            "Y": 1021,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8291800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 444,
+            "Y": 1010,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7529500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 451,
+            "Y": 998,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8448400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 460,
+            "Y": 975,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7962000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 470,
+            "Y": 947,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7664000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 479,
+            "Y": 907,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8242300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 488,
+            "Y": 869,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 9074900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 501,
+            "Y": 826,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7028700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 514,
+            "Y": 785,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8635500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 526,
+            "Y": 742,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7319900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 538,
+            "Y": 704,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7756700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 550,
+            "Y": 658,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8273900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 561,
+            "Y": 620,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7918300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 570,
+            "Y": 580,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8181000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 577,
+            "Y": 545,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8079100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 577,
+            "Y": 518,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7796400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 578,
+            "Y": 503,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7703000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 578,
+            "Y": 491,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8441000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 578,
+            "Y": 481,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8048500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 578,
+            "Y": 472,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7620200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 578,
+            "Y": 461,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8051700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 578,
+            "Y": 454,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8373300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 576,
+            "Y": 448,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7892500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 574,
+            "Y": 444,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7702500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 570,
+            "Y": 438,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7846800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 566,
+            "Y": 433,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8324600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 561,
+            "Y": 427,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7724000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 556,
+            "Y": 422,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8384800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 550,
+            "Y": 416,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8167600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 547,
+            "Y": 414,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7912800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 542,
+            "Y": 412,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7701800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 537,
+            "Y": 409,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7626800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 533,
+            "Y": 407,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8475400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 527,
+            "Y": 405,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8492800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 520,
+            "Y": 401,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7233300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 509,
+            "Y": 396,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8453400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 500,
+            "Y": 393,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7181500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 489,
+            "Y": 389,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8640300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 478,
+            "Y": 382,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7892100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 469,
+            "Y": 377,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8243700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 463,
+            "Y": 372,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7874400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 456,
+            "Y": 368,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7899500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 450,
+            "Y": 364,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7967500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 446,
+            "Y": 362,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8153100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 441,
+            "Y": 358,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7634600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 437,
+            "Y": 354,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8449000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 434,
+            "Y": 351,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8104500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 430,
+            "Y": 349,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8012500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 429,
+            "Y": 347,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7888200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 427,
+            "Y": 346,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7663900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 426,
+            "Y": 345,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8087700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 424,
+            "Y": 343,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8036100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 423,
+            "Y": 342,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8240000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 422,
+            "Y": 341,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7614300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 420,
+            "Y": 338,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8643100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 420,
+            "Y": 337,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7655800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 420,
+            "Y": 336,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8420600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 419,
+            "Y": 334,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7657200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 418,
+            "Y": 332,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7743400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 417,
+            "Y": 331,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7890300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 415,
+            "Y": 329,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8399700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 415,
+            "Y": 328,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8047000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 412,
+            "Y": 325,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7947100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 411,
+            "Y": 323,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8073400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 409,
+            "Y": 321,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7928500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 409,
+            "Y": 320,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7838100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 408,
+            "Y": 320,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7964700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 408,
+            "Y": 319,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 16210700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 408,
+            "Y": 318,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15205300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 408,
+            "Y": 317,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 32357000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 408,
+            "Y": 316,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 89761300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 408,
+            "Y": 315,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 37883200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 409,
+            "Y": 314,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 9050000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 410,
+            "Y": 313,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 16685600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 411,
+            "Y": 312,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 14578200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 411,
+            "Y": 312,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8321800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 411,
+            "Y": 310,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7918400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 412,
+            "Y": 307,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8194000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 413,
+            "Y": 306,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7649800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 413,
+            "Y": 305,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8216400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 414,
+            "Y": 303,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7899600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 416,
+            "Y": 301,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8050600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 417,
+            "Y": 300,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7942000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 419,
+            "Y": 296,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8157100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 420,
+            "Y": 295,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7704600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 421,
+            "Y": 294,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7592400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 422,
+            "Y": 290,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8565300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 423,
+            "Y": 290,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8135700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 423,
+            "Y": 289,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7688600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 424,
+            "Y": 288,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8077800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 424,
+            "Y": 287,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8216400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 424,
+            "Y": 287,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 23927700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 424,
+            "Y": 286,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 16376900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 425,
+            "Y": 286,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 23743500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 427,
+            "Y": 284,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8134900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 427,
+            "Y": 284,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15704200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 428,
+            "Y": 283,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8262400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 429,
+            "Y": 282,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7983300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 429,
+            "Y": 282,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7941200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 430,
+            "Y": 281,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8154100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 432,
+            "Y": 280,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8027500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 432,
+            "Y": 280,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7474100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 433,
+            "Y": 280,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 16048300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 432,
+            "Y": 280,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 144338200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 428,
+            "Y": 281,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7865500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 423,
+            "Y": 281,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7886500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 419,
+            "Y": 283,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8270000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 412,
+            "Y": 286,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8090400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 406,
+            "Y": 287,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7663600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 398,
+            "Y": 290,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8226400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 391,
+            "Y": 291,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7159600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 386,
+            "Y": 293,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8876400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 381,
+            "Y": 295,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7999900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 376,
+            "Y": 296,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7291200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 372,
+            "Y": 297,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8275900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 369,
+            "Y": 298,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8419600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 367,
+            "Y": 298,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7950300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 364,
+            "Y": 300,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7619000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 364,
+            "Y": 300,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8480100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 363,
+            "Y": 300,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7531600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 363,
+            "Y": 302,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 64177200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 365,
+            "Y": 303,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 17085700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 370,
+            "Y": 303,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7049100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 374,
+            "Y": 304,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8062000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 377,
+            "Y": 304,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7931500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 381,
+            "Y": 305,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7546800
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 385,
+            "Y": 305,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8116000
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 391,
+            "Y": 305,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7977100
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 396,
+            "Y": 305,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8302700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 404,
+            "Y": 305,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8063500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 409,
+            "Y": 305,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7694400
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 415,
+            "Y": 305,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7961900
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 423,
+            "Y": 306,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8516300
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 428,
+            "Y": 308,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7035700
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 431,
+            "Y": 308,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 8935200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 433,
+            "Y": 308,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 7992500
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 434,
+            "Y": 308,
+            "DWFlags": 32769,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 15858600
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 434,
+            "Y": 308,
+            "DWFlags": 32770,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 144152200
+    },
+    {
+        "NoteType": 0,
+        "KeyNote": null,
+        "MouseNote": {
+            "X": 434,
+            "Y": 308,
+            "DWFlags": 32772,
+            "MouseData": 0,
+            "Time": 0
+        },
+        "TimeGap": 79508300
+    }
+]
